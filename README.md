@@ -98,3 +98,6 @@ As regras de negócio, os testes de uso e a validação do sistema são de autor
 
 - LinkedIn: https://www.linkedin.com/in/darlan-alves-logistica-dados
 - GitHub: https://github.com/darlanalves-dados
+- ## Direitos
+
+© 2026 Darlan Alves. Todos os direitos reservados. O código está publicado para demonstração e avaliação. Uso comercial, cópia ou redistribuição dependem de autorização do autor. Veja o arquivo [LICENSE](https://github.com/darlanalves-dados/di-inventario/blob/main/LICENSE).
