@@ -88,16 +88,19 @@ Este repositório traz a versão de demonstração, que não se conecta a nenhum
 
 ## Sobre o projeto
 
-Criado por **Darlan Alves**, profissional de logística e dados, como um **projeto pessoal de estudo, desenvolvimento e demonstração**.
+Criado por Darlan Alves, profissional de logística e dados, como um projeto pessoal de estudo, desenvolvimento e demonstração.
 
-O DI Inventário foi desenvolvido de forma independente, com base na experiência do autor em processos de estoque e inventário, utilizando **dados fictícios** e regras de negócio estruturadas pelo próprio autor.
+O DI Inventário foi desenvolvido de forma independente, com base na experiência do autor em processos de estoque e inventário, utilizando dados fictícios e regras de negócio estruturadas pelo próprio autor.
 
-O projeto **não representa, reproduz ou utiliza dados, sistemas, código-fonte, bases de dados, credenciais ou informações confidenciais de qualquer empregador**.
+O projeto não representa, reproduz ou utiliza dados, sistemas, código-fonte, bases de dados, credenciais ou informações confidenciais de qualquer empregador.
 
-As regras de negócio, os testes de uso e a validação do sistema são de autoria do autor.
+As regras de negócio, os testes de uso e a validação do sistema foram desenvolvidos pelo próprio autor.
 
 - LinkedIn: https://www.linkedin.com/in/darlan-alves-logistica-dados
 - GitHub: https://github.com/darlanalves-dados
-- ## Direitos
 
-© 2026 Darlan Alves. Todos os direitos reservados. O código está publicado para demonstração e avaliação. Uso comercial, cópia ou redistribuição dependem de autorização do autor. Veja o arquivo [LICENSE](https://github.com/darlanalves-dados/di-inventario/blob/main/LICENSE).
+## Direitos
+
+© 2026 Darlan Alves. Todos os direitos reservados.
+
+O código está publicado apenas para demonstração e avaliação. É proibido o uso comercial, a cópia ou a redistribuição, total ou parcial, sem autorização prévia e por escrito do autor. Veja o arquivo [LICENSE](LICENSE).
